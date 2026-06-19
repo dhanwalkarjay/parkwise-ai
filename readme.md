@@ -39,7 +39,7 @@ to support smarter and more efficient traffic management.
 
 # 🏗️ System Architecture
 
-![Architecture](assets/architect diagram.png)
+![Architecture](assets/architect-diagram.png)
 
 ---
 
@@ -49,7 +49,7 @@ to support smarter and more efficient traffic management.
 
 Provides city-wide parking intelligence including:
 
-![Executive Overview Dashboard](assets/IMG (8).png)
+![Executive Overview Dashboard](assets/IMG-8.png)
 
 * Total Violations
 * Police Stations Covered
@@ -63,7 +63,7 @@ Provides city-wide parking intelligence including:
 
 Interactive geospatial visualization featuring:
 
-![Bengaluru Risk Map](assets/IMG (7).png)
+![Bengaluru Risk Map](assets/IMG-7.png)
 
 * Parking violation hotspots
 * Risk heatmaps
@@ -77,7 +77,7 @@ Interactive geospatial visualization featuring:
 
 Uses DBSCAN (Density-Based Spatial Clustering) to identify:
 
-![AI Hotspot Detection](assets/IMG (1).png)
+![AI Hotspot Detection](assets/IMG-1.png)
 
 * Illegal parking clusters
 * High-density violation zones
@@ -96,7 +96,7 @@ Uses DBSCAN (Density-Based Spatial Clustering) to identify:
 
 Provides:
 
-![Enforcement Intelligence](assets/IMG (6).png)
+![Enforcement Intelligence](assets/IMG-6.png)
 
 * Police station risk ranking
 * Recommended patrol windows
@@ -109,7 +109,7 @@ Provides:
 
 Simulates:
 
-![AI Patrol Simulator](assets/IMG (5).png)
+![AI Patrol Simulator](assets/IMG-5.png)
 
 * Officer deployment plans
 * Resource allocation strategies
@@ -121,7 +121,7 @@ Simulates:
 
 Allows authorities to estimate:
 
-![Impact Simulator](assets/IMG (4).png)
+![Impact Simulator](assets/IMG-4.png)
 
 * Potential violation reduction
 * Enforcement effectiveness
@@ -135,7 +135,7 @@ Powered by Large Language Models (LLMs).
 
 Generates:
 
-![AI Enforcement Advisor](assets/IMG (3).png)
+![AI Enforcement Advisor](assets/IMG-3.png)
 
 * Enforcement recommendations
 * Patrol strategies
@@ -148,7 +148,7 @@ Generates:
 
 Machine Learning model predicts future parking violation risk using:
 
-![Executive Overview Dashboard](assets/IMG (2).png)
+![Executive Overview Dashboard](assets/IMG-2.png)
 
 * Location
 * Vehicle Type
